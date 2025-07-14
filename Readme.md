@@ -21,7 +21,8 @@ git branch -M main
 5. Add the repository link for uploading the project files into it
 ```
 git remote add origin https://github.com/your-username/repo-name.git
-```
+```3
+
 
 6. Now push the project files into the Repository
 ```
